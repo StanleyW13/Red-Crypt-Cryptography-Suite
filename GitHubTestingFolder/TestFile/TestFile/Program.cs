@@ -10,6 +10,7 @@ namespace TestFile
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I have made a change to this file!");
         }
     }
 }
